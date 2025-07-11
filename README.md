@@ -65,17 +65,6 @@ You can open `index.html` with the browser or use **Live Server** in VS Code.
 
 ---
 
-## 📁 Project structure
-
-```
-.
-├── index.html
-├── main.js
-├── db.json
-├── README.md
-└── package.json (optional)
-```
-
 ---
 
 ## 📌 Requirements
